@@ -6,18 +6,17 @@
     </head>
      <body>
       <h1>Las cajas flotantes </h1>
-      <div id="cajaNegra">Caja NEGRA
-       <img src=  C:\Users\Sala\Desktop\Rodrigo sanchez\img\ferrarari.jpg
-       </div>
+      <div id="cajaNegra">
+<img src="https://phantom-expansion.unidadeditorial.es/d2b2584aca2d3c7f5fbbd787fb9e5bc2/crop/0x725/2043x1875/resize/1200/f/jpg/assets/multimedia/imagenes/2022/05/20/16530388017130.jpg"> Caja NEGRA </div>
       <div id="cajaRoja">Caja ROJA
-       <img src=C:\Users\Sala\Desktop\Rodrigo sanchez\img\leon.jpg
+    <img src="https://phantom-expansion.unidadeditorial.es/d2b2584aca2d3c7f5fbbd787fb9e5bc2/crop/0x725/2043x1875/resize/1200/f/jpg/assets/multimedia/imagenes/2022/05/20/16530388017130.jpg">
        </div>
       <div id="cajaAzul">Caja AZUL
-       <img src=C:\Users\Sala\Desktop\Rodrigo sanchez\img\lam.jpg
+     <img src="https://phantom-expansion.unidadeditorial.es/d2b2584aca2d3c7f5fbbd787fb9e5bc2/crop/0x725/2043x1875/resize/1200/f/jpg/assets/multimedia/imagenes/2022/05/20/16530388017130.jpg">
 
        </div>
       <div id="cajaMorada">Caja MORADA
-       <img src= C:\Users\Sala\Desktop\Rodrigo sanchez\img\puma.jpg
+      <img src="https://phantom-expansion.unidadeditorial.es/d2b2584aca2d3c7f5fbbd787fb9e5bc2/crop/0x725/2043x1875/resize/1200/f/jpg/assets/multimedia/imagenes/2022/05/20/16530388017130.jpg">
        </div>
     
      </body>
