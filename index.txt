@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+ <html/>
+  <head>
+   <title> cajas flotantes </title>
+   <link rel="stylesheet" type="text/css" href="practica5.css">
+    </head>
+     <body>
+      <h1>Las cajas flotantes </h1>
+      <div id="cajaNegra">Caja NEGRA
+       <img src=  C:\Users\Sala\Desktop\Rodrigo sanchez\img\ferrarari.jpg
+       </div>
+      <div id="cajaRoja">Caja ROJA
+       <img src=C:\Users\Sala\Desktop\Rodrigo sanchez\img\leon.jpg
+       </div>
+      <div id="cajaAzul">Caja AZUL
+       <img src=C:\Users\Sala\Desktop\Rodrigo sanchez\img\lam.jpg
+
+       </div>
+      <div id="cajaMorada">Caja MORADA
+       <img src= C:\Users\Sala\Desktop\Rodrigo sanchez\img\puma.jpg
+       </div>
+    
+     </body>
+ </html>
