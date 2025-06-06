@@ -54,20 +54,7 @@ border-radius: 40px;
       height: 200px;
       border-radius: 30px;
 }
-#cajaAmarilla{
-background-color: yellow;
-/*float: right;*/
-width: 200px;
-height: 400px;
-padding: 30px;
-text-align: center;
-border-radius: 40px;
-}
-#cajaAmarilla img{
-  width: 200px;
-      height: 200px;
-      border-radius: 30px;
-}
+
 #cajaMorada{
 background-color: purple;
 /*float: right;*/
