@@ -64,9 +64,9 @@ padding: 30px;
 text-align: center;
 border-radius: 40px;
 }
-#cajaMorada img{
-  width: 200px;
-      height: 200px;
+ img{
+  width: 250px;
+      height: 250px;
       border-radius: 30px;
 }
 </style>
